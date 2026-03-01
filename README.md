@@ -1,2 +1,0 @@
-# jaspyha.github.io
-## WIP
